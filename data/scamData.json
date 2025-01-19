@@ -1,0 +1,26 @@
+{
+  "tips": [
+    "Avoid emails that offer jobs without an interview process.",
+    "Verify the sender's email domain—watch out for free email services.",
+    "Never pay upfront for a job opportunity.",
+    "Be cautious if asked to download a free messaging app for communication.",
+    "Check the company's website and contact details for legitimacy."
+  ],
+  "examples": [
+    {
+      "title": "Scam Example: Messenger App Communication",
+      "content": "An email asks you to download Telegram to chat with the HR team. Professional companies typically use official platforms like Zoom or Slack."
+    },
+    {
+      "title": "Scam Example: Payment Request",
+      "content": "A job offer email requests a $500 payment for onboarding materials. Legitimate companies do not ask for upfront payments."
+    }
+  ],
+  "checklist": [
+    "Is the job offer too good to be true?",
+    "Does the employer ask for upfront payments?",
+    "Does the email domain match the company's official website?",
+    "Is the employer asking to communicate via a free messaging app?",
+    "Does the email lack proper grammar and formatting?"
+  ]
+}

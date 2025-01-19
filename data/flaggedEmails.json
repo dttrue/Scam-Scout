@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Software engineer role",
+    "content": "",
+    "redFlags": [
+      "Contains suspicious keyword: \"urgent\"",
+      "Contains suspicious keyword: \"work from home\"",
+      "Uses a free email domain: \"gmail.com\""
+    ],
+    "riskLevel": "Medium",
+    "date": "12/21/2024, 12:40:50 PM"
+  },
+  {
+    "title": "React Developer",
+    "content": "",
+    "redFlags": [
+      "Contains suspicious keyword: \"urgent\"",
+      "Contains suspicious keyword: \"wire transfer\"",
+      "Suspicious link detected: http://fakesite.com/offer",
+      "Email contains potentially risky attachment types."
+    ],
+    "riskLevel": "High",
+    "date": "12/22/2024, 11:40:29 AM"
+  }
+]
